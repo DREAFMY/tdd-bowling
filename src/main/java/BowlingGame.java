@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class BowlingGame {
     public int score(int[] scores) {
         int result = 0;
